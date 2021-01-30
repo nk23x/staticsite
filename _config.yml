@@ -1,13 +1,13 @@
 
 # SEO
-title: Swiss Jekyll Theme
-description: A bold typographic theme inspired by Swiss design.
+title: one more
+description: another github pages test
 
 # social
 social_link: twitter
-social_username: broccolini
-github_repo: athena # the GitHub repo name for your project
-github_username: broccolini
+social_username: nk23x
+github_repo: staticsite # the GitHub repo name for your project
+github_username: nk23x
 theme_color: black
 
 # Theme
@@ -40,9 +40,6 @@ remote_theme_layouts:
   - category_index
 social_links:
   - twitter
-  - instagram
-  - medium
-  - dribbble
 
 theme_colors:
   - black
