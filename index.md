@@ -1,10 +1,10 @@
 ---
 layout: home
 permalink: "/"
-title: Athena Jekyll Theme
+title: ~/
 
 ---
 
-A simple and elegant theme for Jekyll and GitHub Pages.
+another test on github pages
 
 
